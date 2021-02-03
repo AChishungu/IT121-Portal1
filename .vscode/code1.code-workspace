@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "..\\..\\IT121-Portal\\css"
+		},
+		{
+			"name": "images",
+			"path": "..\\..\\IT121-Portal\\images"
+		},
+		{
+			"name": "IT121-Portal1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
